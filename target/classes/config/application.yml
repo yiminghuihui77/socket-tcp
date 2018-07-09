@@ -1,7 +1,0 @@
-server:
-  port: 8110
-
-spring:
-  application:
-    name: socket-demo
-
